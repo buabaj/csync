@@ -1,0 +1,2 @@
+class CSyncExceptionError(Exception):
+    pass
